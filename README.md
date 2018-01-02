@@ -1,5 +1,6 @@
 # cloning-repo
 Learning how to clone a repo locally from Github
 
-#useful commands
-a. git clone <github_url_https_version>;
+##useful commands##
+
+a. git clone (github url);
